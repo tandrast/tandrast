@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andás Tóth
+### Hi there 👋 I'm András Tóth
 
 <!--
 **Toth-Andras-Tamas/Toth-Andras-Tamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
