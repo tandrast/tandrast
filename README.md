@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 #### I know:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-252d13?style=flat-square&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-252d13?style=flat-square&logo=javascript)](https://www.javascript.com/)
 ![HTML](https://img.shields.io/badge/-HTML-252d13?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-252d13?style=flat-square&logo=css3&logoColor=1572B6)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-252d13?style=flat-square&logo=typescript)
